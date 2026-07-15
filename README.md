@@ -2,126 +2,136 @@
 
 # TACK2427
 
-### AI × Programming × Making Things
+## Developer / Creator / AI-Assisted Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/TACK2427?style=for-the-badge)](https://github.com/TACK2427)
-[![Profile Views](https://komarev.com/ghpvc/?username=TACK2427&style=for-the-badge)](https://github.com/TACK2427)
+Building projects with programming, automation and artificial intelligence.
+
+![GitHub followers](https://img.shields.io/github/followers/TACK2427?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/TACK2427?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=TACK2427&style=for-the-badge)
 
 </div>
 
 ---
 
-## 👋 About Me
+# About Me
 
-こんにちは、**TACK2427**です。
+こんにちは、TACK2427です。
 
-プログラミング、Web開発、Discord Bot開発、AI活用、サーバー構築などを中心に活動しています。
+ソフトウェア開発、Web制作、Discord Bot開発、AI活用、サーバー構築などを中心に活動しています。
 
-「思いついたものを技術で形にする」を目標に、新しい技術を試しながら開発しています。
+興味を持った技術は実際に触り、試作・検証・改善を繰り返しながら知識を広げています。
 
 ---
 
-## 🤖 AI First Development
+# AI-Assisted Development
 
-AIを開発パートナーとして活用しています。
+開発ではAIを重要なパートナーとして活用しています。
 
-コード作成では、**コードの大部分をAIに生成してもらっています。**
+コード作成については、**大部分をAIに生成させています。**
 
-私は以下を担当しています。
+ただ生成するだけではなく、以下の工程を自分で管理しています。
 
-- アイデア設計
-- 仕様決定
+- プロジェクト設計
+- 要件整理
 - AIへの指示作成
-- 動作確認
+- 生成コード確認
+- 動作検証
 - デバッグ
-- 改善・調整
+- 改善
+- 最終判断
 
-AIの高速な生成力と、人間による判断・検証を組み合わせて開発しています。
+AIの生成速度と、人間による設計・確認能力を組み合わせた開発スタイルを目指しています。
 
 ---
 
-## 🛠️ Technologies
+# Technology Stack
 
-### Languages
+## Programming
 
 - JavaScript
-- HTML / CSS
 - Python
+- HTML
+- CSS
 
-### Development
+## Backend / Infrastructure
 
 - Node.js
 - Discord.js
-- Web API
 - REST API
 - PostgreSQL
 - Docker
+- Linux
 
-### AI / Tools
+## AI / Development Tools
 
 - GitHub
 - Visual Studio Code
 - Ollama
 - Local LLM
-- AI Coding Tools
+- AI Coding Assistant
 
 ---
 
-## 🚀 Projects
+# Projects
 
-### Discord Bot Development
+## Discord Bot Development
 
 Discord向けBotを開発しています。
 
-主な機能:
+主な開発内容:
 
 - コマンドシステム
-- 通知機能
-- API連携
-- サーバー管理
 - 自動化機能
+- 通知システム
+- 外部API連携
+- サーバー管理機能
 
 ---
 
-### Web & API Projects
+## Web Application & API
 
-WebサイトやバックエンドAPIを開発しています。
+WebサービスやAPIシステムを開発しています。
 
-- Webページ制作
-- API構築
-- データ管理
+取り組み:
+
+- Webサイト制作
+- バックエンドAPI
+- データベース設計
 - サーバー運用
 - 外部サービス連携
 
 ---
 
-### AI Development
+## AI Engineering
 
-ローカルLLMやAIツールを活用し、開発効率化やAIエージェント活用を研究しています。
+ローカルLLMやAIエージェントを活用し、開発効率化や新しい開発手法を研究しています。
 
 ---
 
-## 💻 Development Style
+# Development Workflow
 
 ```
 Idea
- ↓
-AI Assistance
- ↓
-Implementation
- ↓
+  ↓
+Planning
+  ↓
+AI Assisted Coding
+  ↓
 Testing
- ↓
+  ↓
+Debugging
+  ↓
 Improvement
- ↓
+  ↓
 Release
 ```
 
-試作 → 検証 → 改善を繰り返し、少しずつ成長する開発スタイルです。
+高速な試作と継続的な改善を重視しています。
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Statistics
 
 <div align="center">
 
@@ -133,22 +143,29 @@ Release
 
 ---
 
-## 🎯 Philosophy
+# Development Philosophy
 
-> まず作る。試す。失敗から学ぶ。そして改善する。
+> Create. Test. Learn. Improve.
 
-エラーや問題も開発の一部として楽しみながら、技術力向上を目指しています。
+エラーや失敗も開発プロセスの一部として考え、問題解決を通じて成長することを大切にしています。
 
 ---
 
-## 📫 Contact
+# Goals
+
+- より高度なWebサービス開発
+- AIを活用した開発環境構築
+- 新しい技術への挑戦
+- 実用的なプロジェクト制作
+
+---
+
+# Contact
 
 GitHubで活動しています。
 
----
-
 <div align="center">
 
-Thanks for visiting my profile!
+Thank you for visiting my profile.
 
 </div>
